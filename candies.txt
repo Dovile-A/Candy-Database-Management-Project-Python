@@ -1,0 +1,103 @@
+Name,Flavor,Price,Amount
+Aguona,Coffee,2,1
+Kregždutė,Coconut,9,6
+Karakumai,Champagne,15,5
+Fortūna,Coffee,5,17
+Ananasinis,Cherry liqueur,5,22
+Velykinis,Vanilla,18,26
+Kalėdinis,Fruity,8,23
+Paukščių pienas,Apple,6,3
+Saulė,Apple,17,26
+Nomeda,Caramel,21,5
+Kaukė,Champagne,14,13
+Jelysimo,Pear,18,16
+Gelysimo,Pear,7,22
+Griliažas,Fruity,22,13
+Voveraitė,Cherry liqueur,5,3
+Vėžialiai,Cranbery,13,14
+Vėžiukai,Caramel,11,16
+Obuoliukai,Apple,18,30
+Kriaušytės,Vanilla,3,2
+Ananasiukai,Vanilla,6,7
+Meška Šiaurėje,Coconut,16,9
+Meška Kieme,Pear,14,2
+Riešutėlis,Cherry liqueur,15,15
+Kietas riešutėlis,Champagne,7,30
+Dantinlaužis,Coconut,17,16
+Irisas,Coffee,14,14
+Irisas miknkštasai,Peanutbutter,14,15
+Kokosinis,Chocolate,18,15
+Vyšniukas,Coconut,7,13
+Vyšnaitė,Cherry liqueur,15,25
+Pupa,Champagne,6,24
+Uoga,Peanutbutter,15,21
+Miško uoga,Honey,8,9
+Kauno ypatingieji,Coffee,16,23
+Kėdainių agurkinai,Peanutbutter,8,7
+Gaidelis,Vanilla,17,17
+Vištytė,Cherry liqueur,19,9
+Kiaulytė,Apple,15,1
+Karvutė,Wallnuts,13,5
+KarKar,Wallnuts,5,30
+Velniai nematė,Wallnuts,23,13
+Vilniaus stadionas,Pear,4,8
+Kauno Krabas,Champagne,17,23
+Juodieji be brendžio,Coconut,14,1
+Baltieji su viskiu,Champagne,20,7
+Senamiestis,Honey,22,25
+Uostamiestis,Cranberry,19,23
+Uošvienės,Chocolate,3,16
+Žento,Honey,17,13
+Marčios,Fruity,8,3
+Karčios dienos,Pear,20,29
+Guminis botas,Fruity,14,9
+Lietuvaitė,Coffee,9,23
+Dzūkaitė,Peanutbutter,9,2
+Pokemonai,Apple,19,29
+Aštriukai,Caramel,23,21
+Rūgštukai,Coconut,14,29
+Gera nuotaika,Fruity,19,17
+Euriukai,Coconut,10,13
+Švelnumas,Vanilla,13,17
+Migdoliukai,Caramel,20,4
+Migdukai,Caramel,8,1
+Liesučiams,Coffee,18,9
+Svajonių planeta,Wallnuts,17,3
+Kasablanka,Chocolate,18,9
+Meilės apraiška,Coffee,8,3
+Skausmo ašaros,Chocolate,19,21
+Pieno upės,Coconut,18,13
+Šokolado kalnai,Pear,16,29
+Geros nuotaikos,Apple,19,25
+Šokolado replės,Coffee,21,21
+Pienių išrūgos,Coffee,17,2
+Saulėgrįža,Caramel,4,16
+Saulėgraža,Apple,12,3
+Moliūgėlio svajonės,Caramel,15,8
+Piemenėlio godos,Cranberry,19,14
+Aurora,Caramel,15,17
+Žiema,Coconut,11,8
+Gintarinė,Pear,13,8
+Žaliosios upės banga,Pear,21,22
+Kopos,Coffee,10,20
+Kaimiška svajonė,Pear,13,26
+Svajonių puota,Apple,23,14
+Laiminga žiema,Caramel,21,5
+Ugnies žibintas,Cranberry,15,27
+Klevų sula,Pear,5,14
+Močiūtės skanėstas,Pear,14,17
+Kupranugarių šokiai,Caramel,21,1
+Gurmano kabinetas,Chocolate,14,23
+Vėjo žaismas,Fruity,21,28
+Spalvingas sapnas,Wallnuts,11,15
+Pusryčių laimė,Wallnuts,20,1
+Aitvarų skraistė,Fruity,15,3
+Kavos žvaigždė,Champagne,15,15
+Saldžios naktys,Pear,7,15
+Žiemos magija,Pear,4,1
+Raudonųjų serbentų daina,Honey,17,2
+Aukso lietus,Pear,16,7
+Vasaros gaiva,Pear,8,6
+Saldžios akimirkos,Pear,17,16
+Mėnulio šviesa,Chocolate,7,3
+Žiemos pasaka,Fruity,10,4
